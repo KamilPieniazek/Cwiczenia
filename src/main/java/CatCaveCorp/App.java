@@ -1,5 +1,7 @@
 package CatCaveCorp;
 
+import java.util.Scanner;
+
 /**
  * Hello world!
  *
@@ -10,10 +12,10 @@ public class App
     {
         System.out.println( "Hello JAVA EDYCJA!!!!!" );
 
-        for(int i = 0; i < 10; i++){
-            System.out.println(i +" kieliszek za Gita");
-        }
+
+        System.out.println("cokolwiek XD");
+    }
 
 
     }
-}
+
