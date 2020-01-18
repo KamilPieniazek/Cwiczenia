@@ -10,8 +10,9 @@ public class App
     {
         System.out.println( "Hello JAVA EDYCJA!!!!!" );
 
-        for(int i = 0; i < 10; i++){
+        for(int i = 1; i < 20; i++){
             System.out.println(i +" kieliszek za Gita");
+            System.out.println("Zostalo " +(20-i);
         }
 
 
